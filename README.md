@@ -10,7 +10,7 @@ UX isn't a design phase — it's a lens applied across the whole product lifecyc
 The practical overlap between UX and dev lives in:
 - Component behavior and edge cases
 - Accessibility and performance perception
-- Error states and empty states — the moments most devs skip
+- Error states and empty states
 
 ---
 
@@ -76,7 +76,7 @@ Each friction point in the map becomes a screen or step in the companion app —
 
 ## A Personal Anecdote
 
-Filling out a W-9 on a government website for the first time felt like the site hadn't been updated in years — the PDF form didn't work properly on mobile, fields were confusing with no guidance, and when I made a mistake the "go back and edit" button didn't work. For someone filling it out for the first time with no tax background, something that should take 5 minutes turned into a frustrating experience that made you second-guess every answer.
+Filling out a W-9 on a government website for the first time felt like the site hadn't been updated in years — the PDF form didn't work properly on mobile, fields were confusing with no guidance, and when I made a mistake the "go back and edit" button didn't work. 
 
 **Bad UX doesn't fail everyone equally. It fails the people with the least margin for error first.**
 
@@ -88,7 +88,6 @@ Most products are designed for users who can abandon a frustrating experience. A
 
 - **No easy exit** — there's no competitor app for NYCHA housing resources
 - **Trust is fragile** — one confusing flow confirms the platform wasn't built for them
-- **Stakes are real** — missing a deadline or misreading eligibility has actual consequences
-- **The opportunity is real** — getting it right builds trust with communities that have historically been underserved by technology
+technology
 
 UX here isn't about delight. It's about dignity.
