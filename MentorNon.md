@@ -119,3 +119,19 @@
   These are production-level features. The final feasibility document (due May 11) will   
   outline exactly what it would take to add them and what it would cost in time and       
   infrastructure.
+
+  ---
+  Screenshots
+
+  <table>
+    <tr>
+      <td align="center"><strong>Mentor Application</strong></td>
+      <td align="center"><strong>Admin Review</strong></td>
+      <td align="center"><strong>Status Page</strong></td>
+    </tr>
+    <tr>
+      <td><img src="Photos/mentor-application.png" width="300"/></td>
+      <td><img src="Photos/admin-review.png" width="300"/></td>
+      <td><img src="Photos/status-page.png" width="300"/></td>
+    </tr>
+  </table>
